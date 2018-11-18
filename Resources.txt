@@ -1,17 +1,17 @@
- *CS231n: Convolutional Neural Networks for Visual Recognition*
+ CS231n: Convolutional Neural Networks for Visual Recognition
 http://cs231n.github.io/
 https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 
 Maskin læring og nevrale nettverk forklart på en pedagogisk måte fra bunnen. Hvert foredrag på youtube har tilsvarende blogg innlegg.
 
 
- *Machine Learning Guide*
+ Machine Learning Guide
 http://ocdevel.com/mlg
 
 Podcast av en web utvikler som bestmte å gå i maskin læring verden. Han deler sin kunnskap i podcast, er ganske strukturert og pedagogisk. Veldig nyttig podcast.
 
 
-  *O’Reilly Data Newsletter*
+  O’Reilly Data Newsletter
 Meld på: https://www.oreilly.com/data/newsletter.html
 
 En av de beste newsletter tjenester jeg har meldt meg på. Nye, relevante artikkler som dekker maskin læring og temaene rundt det.
