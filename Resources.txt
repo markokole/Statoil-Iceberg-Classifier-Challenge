@@ -11,7 +11,11 @@ http://ocdevel.com/mlg
 Podcast av en web utvikler som bestemte å gå i maskin læring verden. Han deler sin kunnskap i podcast, er ganske strukturert og pedagogisk. Veldig nyttig podcast.
 
 
-#  O’Reilly Data Newsletter
+# O’Reilly Data Newsletter
 Påmelding: https://www.oreilly.com/data/newsletter.html
 
 En av de beste newsletter tjenester jeg har meldt meg på. Nye, relevante artikkler som dekker maskin læring og temaene rundt det.
+
+
+# Data engineering
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
