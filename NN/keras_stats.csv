@@ -1,0 +1,19 @@
+sysdate,activation_1,activation_2,optimizer,loss,metrics,dense_1,dropout,dense_2,epochs,val_loss,val_acc
+2019-02-06 12:48:48,softmax,softmax,adam,sparse_categorical_crossentropy,['accuracy'],512,0.2,10,10,1.1551,0.4133
+2019-02-06 12:52:34,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],512,0.2,10,100,0.2849,0.88
+2019-02-06 13:02:46,softmax,relu,adam,sparse_categorical_crossentropy,['accuracy'],512,0.2,10,100,2.3026,0.5467
+2019-02-06 13:50:55,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],32,NA,10,100,0.4662,0.7867
+2019-02-06 13:53:00,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],32,NA,10,1000,0.3611,0.8533
+2019-02-06 14:13:36,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],32,0.2,10,1000,0.3242,0.88
+2019-02-06 14:21:45,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],32,0.2,10,1000,0.6057,0.8533
+2019-02-06 14:25:43,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],512,0.1,10,1000,0.4377,0.88
+2019-02-06 14:44:27,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],512,0.1,10,1000,0.7694,0.8133
+
+sysdate,activation_1,activation_2,optimizer,loss,metrics,dense_1,dropout,dense_2,epochs,use_bias,val_loss,val_acc
+2019-02-06 15:08:40,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],512,0.2,10,300,True,0.2903,0.88
+2019-02-06 15:10:09,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],512,0.2,10,300,False,0.4108,0.8267
+
+sysdate,activation_1,activation_2,optimizer,loss,metrics,dense_1,dropout,dense_2,epochs,use_bias,train_time,val_loss,val_acc
+2019-02-06 15:16:09,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],512,0.2,10,300,True,54.59,0.2368,0.92
+2019-02-06 15:17:38,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],512,0.2,10,300,False,48.82,0.3505,0.8267
+2019-02-06 15:19:53,relu,softmax,adam,sparse_categorical_crossentropy,['accuracy'],512,0.2,10,300,True,50.62,0.2626,0.8533
